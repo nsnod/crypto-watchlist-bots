@@ -5,7 +5,7 @@ You will need to make your .env file with the following format\
 BTC_TOKEN=""\
 ETH_TOKEN=""\
 SHB_TOKEN=""\
-LTC_TOKEN=""\
+LTC_TOKEN=""
 
 
 Any future coins that are added will be updated here
